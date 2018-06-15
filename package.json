@@ -1,0 +1,15 @@
+{
+  "name":         "NetworkAdapter",
+  "version":      "0.1",
+  "description":  "Interface to network adapter functionality.",
+  "author":       "Rich Collins",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["NetworkAdapter"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
